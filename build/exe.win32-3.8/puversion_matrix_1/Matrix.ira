@@ -1,0 +1,20 @@
+[matrix]
+syscoding = cp1252
+csvpath = 
+pathout = C:\Users\cours\Desktop\CPYTHON\Testpy\projetCSVpython\build\exe.win32-3.8\puversion_matrix_1
+uuid = 6bb2dd12-6019-409e-87ef-9e0cfeaaa6e3
+encoding = utf8
+matrix_name = puversion.csv
+colsep = ;
+filetype = csv
+mineff = 3
+shelves = C:\Users\cours\Desktop\CPYTHON\Testpy\projetCSVpython\build\exe.win32-3.8\puversion_matrix_1\shelve.db
+csvfile = C:\Users\cours\Desktop\CPYTHON\Testpy\projetCSVpython\build\exe.win32-3.8\puversion_matrix_1\csvfile.csv
+filename = 
+originalpath = C:\Users\cours\Desktop\CPYTHON\Testpy\projetCSVpython\build\exe.win32-3.8\puversion.csv
+encodage = cp1252
+time = 
+date = 
+ira = C:\Users\cours\Desktop\CPYTHON\Testpy\projetCSVpython\build\exe.win32-3.8\puversion_matrix_1\Matrix.ira
+type = matrix
+txtsep = "
